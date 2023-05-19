@@ -20,7 +20,7 @@ A Pokédex permite acessar informações detalhadas de todos os Pokémon, seja p
 - Faça o clone ou download deste repositório.
 - Abra o arquivo index.html no seu navegador web.
 - Digite o nome ou número de identificação de um Pokémon na caixa de pesquisa.
-- Pressione Enter ou clique no botão de pesquisa.
+- Pressione Enter ou clique no botão de pesquisa..
 - Os detalhes do Pokémon serão exibidos na página.
 
 <h2>Próximas etapas</h2>
